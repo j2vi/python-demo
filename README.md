@@ -5,4 +5,4 @@ Python programming language turtorial
 
 ## demos
 
--[demo_01](./demo_01/): half pyramid
+- [demo_01](./demos/demo_01/): half pyramid
